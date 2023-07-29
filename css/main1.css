@@ -1,0 +1,44 @@
+.block{
+    position: relative;
+    top: 100px;
+}
+.item1{
+    height:30px;
+    background-color: #ff6641;
+    border: 1px solid white;
+    text-align: center;
+}
+.item2{
+    height: 50px;
+    background-color: #ff6641;
+    border: 1px solid white;
+    text-align: center;
+}
+.item3{
+    height: 50px;
+    background-color: #ff6641;
+    border: 1px solid white;
+    text-align: center;
+}
+.item4{
+    height: 50px;
+    background-color: #ff6641;
+    border: 1px solid white;
+    text-align: center;
+}
+.item5{
+    height: 50px;
+    background-color: #ff6641;
+    border: 1px solid white;
+    text-align: center;
+}
+.item6{
+    height: 50px;
+    background-color: #ff6641;
+    border: 1px solid white;
+    text-align: center;
+}
+p{
+    margin-top: 10px;
+    color: white;
+}
